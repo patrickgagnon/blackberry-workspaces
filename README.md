@@ -6,6 +6,7 @@ This repository provides functions to interact with the Blackberry WatchDox REST
 
 ## What is BlackBerry Workspaces?
 >BlackBerry® Workspaces is the leading secure EFSS solution, enabling users to share, edit and control their files on every device. Only BlackBerry Workspaces can provide the level of security organizations need — wherever files are, wherever they need to go, and whoever needs to access them.
+[Workspaces Homepage](https://www.blackberry.com/us/en/products/blackberry-workspaces-efss)
 
 
 ## What is this repository for?

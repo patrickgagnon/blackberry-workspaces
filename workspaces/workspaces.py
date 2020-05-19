@@ -6,7 +6,7 @@ import xlsxwriter
 from datetime import datetime, date
 
 
-class WatchDox(object):
+class Workspaces(object):
 
     def __init__(self):
 
