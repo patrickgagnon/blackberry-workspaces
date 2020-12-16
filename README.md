@@ -1,3 +1,5 @@
+<a href="https://badge.fury.io/py/workspaces"><img src="https://badge.fury.io/py/workspaces.svg" alt="PyPI version" height="18"></a>
+
 # WatchDox
 This repository provides functions to interact with the Blackberry WatchDox REST API
 
